@@ -3,11 +3,11 @@ This is my rails api-only template.
 
 ## Usage 
 1. Clone The Repo 
-  ```
+  ```bash
   $> git clone git@github.com:philiplambok/rails-api-template.git
   ```
 2. Run bundle to installing gem in local 
-  ```
+  ```bash
   $> bundle 
   ```
 3. Done!
