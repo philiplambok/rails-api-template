@@ -1,4 +1,4 @@
-# Overview 
+## Overview 
 This is my rails api-only template. 
 
 ## Usage 
