@@ -14,8 +14,21 @@ This is my rails api-only template.
   ```bash
   $> git remote rm origin 
   ```
-4. Done!
- 
+4. Remove Logs
+  ```bash
+  $> rm -rf .git && rm -rf README.md
+  $> touch README.md 
+  $> git init 
+  $> git add .
+  $> git commit -m 'initialize'
+  ``` 
+5. Push Repo 
+  ```bash
+  $> git remote add origin git@github.com:your_username/your-new-project-name.git
+  $> git push origin master  
+  ```
+6. Done! 
+
 ## Gems
 - [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby)
 - [ruby-jwt](https://github.com/jwt/ruby-jwt)
