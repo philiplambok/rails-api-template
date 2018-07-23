@@ -4,7 +4,7 @@ This is my rails api-only template.
 ## Usage 
 1. Clone The Repo 
   ```bash
-  $> git clone git@github.com:philiplambok/rails-api-template.git
+  $> git clone git@github.com:philiplambok/rails-api-template.git your-new-project-name
   ```
 2. Run bundle to installing gem in local 
   ```bash
