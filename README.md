@@ -2,17 +2,15 @@
 This is my rails api-only template. 
 
 ## Usage 
-### Clone The Repo 
-```
-$> git clone git@github.com:philiplambok/rails-api-template.git
-```
-
-### Run bundle to installing gem in local 
-```
-$> bundle 
-```
-
-Done!
+1. Clone The Repo 
+  ```
+  $> git clone git@github.com:philiplambok/rails-api-template.git
+  ```
+2 Run bundle to installing gem in local 
+  ```
+  $> bundle 
+  ```
+3. Done!
 
 ## Gems
 - [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby)
