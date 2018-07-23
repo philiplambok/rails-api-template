@@ -6,7 +6,7 @@ This is my rails api-only template.
   ```
   $> git clone git@github.com:philiplambok/rails-api-template.git
   ```
-2 Run bundle to installing gem in local 
+2. Run bundle to installing gem in local 
   ```
   $> bundle 
   ```
