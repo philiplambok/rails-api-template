@@ -10,8 +10,12 @@ This is my rails api-only template.
   ```bash
   $> bundle 
   ```
-3. Done!
-
+3. Remove the remote 
+  ```bash
+  $> git remote rm origin 
+  ```
+4. Done!
+ 
 ## Gems
 - [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby)
 - [ruby-jwt](https://github.com/jwt/ruby-jwt)
